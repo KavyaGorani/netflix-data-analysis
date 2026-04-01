@@ -68,6 +68,10 @@ The analysis focuses on transforming raw data into **actionable business insight
 
 ![Growth](images/growth.png)
 
+### 🎭 Top Genres on Netflix  
+
+![Top Genres](images/top_genres.png)
+
 ---
 
 ## 🔍 Key Insights (Business Perspective)
@@ -78,6 +82,21 @@ The analysis focuses on transforming raw data into **actionable business insight
 * Content growth increased rapidly after **2015**, reflecting Netflix’s aggressive scaling phase
 * Peak growth during **2017–2019** suggests heavy investment in content acquisition and production
 * Content distribution is concentrated in a few countries, indicating **regional dominance in media production**
+* International Movies and Drama dominate Netflix content, indicating **a strong focus on global storytelling and diverse audience targeting.**
+
+---
+
+## 💼 Business Impact
+
+This analysis helps understand:
+- Netflix’s content strategy and platform growth
+- Regional dominance in content production
+- Audience targeting through global and local content
+
+These insights can support:
+- Content planning decisions
+- Market expansion strategies
+- Investment in high-performing genres and regions
 
 ---
 
