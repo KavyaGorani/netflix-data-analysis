@@ -128,3 +128,11 @@ Aspiring Data Scientist
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
+
+
+## ▶️ How to Run
+
+1. Clone this repository  
+2. Download the dataset (Netflix CSV)  
+3. Open the notebook in Jupyter Notebook or Google Colab  
+4. Run all cells to reproduce results  
